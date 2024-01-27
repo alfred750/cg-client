@@ -1,7 +1,7 @@
 {
-  "url": "http://localhost:3000/",
+  "url": "https://alfred750.github.io/cg-client/",
   "name": "CG",
-  "iconUrl": "http://localhost:3000/tonicon.png",
-  "termsOfUseUrl": "http://localhost:3000/about/terms",
-  "privacyPolicyUrl": "http://localhost:3000/about/privacy"
+  "iconUrl": "https://alfred750.github.io/cg-client/tonicon.png",
+  "termsOfUseUrl": "https://alfred750.github.io/cg-client/terms.html",
+  "privacyPolicyUrl": "https://alfred750.github.io/cg-client/privacy.html"
 }
